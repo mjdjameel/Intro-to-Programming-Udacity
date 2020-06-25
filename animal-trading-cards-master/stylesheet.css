@@ -1,0 +1,52 @@
+/* add your CSS here */
+
+h3{  
+    font-family: "Gill Sans", sans-serif;
+    font-size: 25px;
+    font-weight: bold; 
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: normal;
+    font-size: 14px;
+}
+
+.Shape{
+    border: 1px solid rgb(150, 149, 149);
+    padding: 1.00em;
+    width:380px;
+    height:600px;
+    margin:10px;
+    flex-wrap:wrap;
+    box-shadow: 10px 10px 0 rgb(212, 210, 210);
+    background-color: rgb(255, 255, 255);
+}
+
+.List_Shape{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+} 
+
+.Content , .Image_border{
+    border: 2px solid rgb(180, 178, 178);
+    padding: 10px; 
+    margin: 10px;
+}
+
+.list_title{
+    font-family: Gill Sans Extrabold, sans-serif;
+    font-weight: bold;
+}
+
+.interesting_fact{
+    font-family: serif;
+    font-style: italic;
+}
+
+
+
+
+
+
